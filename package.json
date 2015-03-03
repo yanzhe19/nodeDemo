@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yanzhe19/nodeDemo/issues"
   },
-  "homepage": "https://github.com/yanzhe19/nodeDemo"
+  "homepage": "https://github.com/yanzhe19/nodeDemo",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
 }
